@@ -160,7 +160,7 @@ export default function Dashboard() {
                 </ChartCard>
             </div>
 
-            <DataTable rows={data.slice(0, 50)} />
+            <DataTable rows={data.slice(0, 60)} />
         </div>
     );
 }
